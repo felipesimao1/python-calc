@@ -1,5 +1,6 @@
+import tkinter as tk
+from tkinter import ttk
 from tkinter import *
-
 root = Tk()
 root.title('Calculator')
 root.geometry('408x355')
